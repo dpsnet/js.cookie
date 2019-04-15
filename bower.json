@@ -10,7 +10,7 @@
 	],
 	
   "description": "Object to work with cookies",
-	 "main": "./dst/Cookie.js",
+	 "main": "./dst/js.cookie.js",
 	"keywords": [
 		"cookie"		
 	],
