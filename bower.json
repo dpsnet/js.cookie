@@ -1,0 +1,29 @@
+{
+	"name": "js.cookie",
+	"homepage": "https://github.com/4urbanoff/js.cookie",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/dpsnet/js.cookie.git"
+	},
+	"authors": [
+		 "Denis Churbanov"
+	],
+	
+  "description": "Object to work with cookies",
+	 "main": "./dst/Cookie.js",
+	"keywords": [
+		"cookie"		
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"demo",
+		"lib"
+	],
+	"dependencies": {
+		
+	}
+}
